@@ -4,4 +4,4 @@
 * Sample output
 ![sample.png](/img/sample.png)
 #### Usage :
- * Simply add the __12_parameter_svg.js__ file in _html script tag_ and call the function named __shape( write 12 parameters indicating window position percentage without using `%` letter )__
+ * Simply add the __12_parameter_svg.js__ file in _html script tag_ and call the function named __shape(__ write 12 parameters indicating window position percentage without using `%` letter __)__
